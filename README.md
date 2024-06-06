@@ -16,7 +16,7 @@
 - Execute o executável / script;
 - Escolha o tipo de aleatoriedade;
 - Espere o programa terminar os procedimentos;
-- Se quiser, retire o programa de dentro da pasta da textura e passe a pasta com a textura para sua ```.minecraft/resourcepacks```
+- Se quiser, retire o programa de dentro da pasta da textura e passe a pasta com a textura para sua ```.minecraft/resourcepacks```;
  
 <h3>📁 Meu Portfólio</h3>
 
